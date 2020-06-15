@@ -1,0 +1,66 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/user/user",
+    "pages/home/home",
+    "pages/log/log",
+    "pages/seeMore/seeMore",
+    "pages/Morss/Morss",
+    "pages/MoreDetails/MoreDetails",
+    "pages/MorAils/MorAils",
+    "pages/Mors/Mors",
+    "pages/MorES/MorES",
+    "pages/NationalTourGuide/NationalTourGuide",
+    "pages/policy/policy",
+    "pages/TouristGuide/TouristGuide",
+    "pages/Bank/Bank",
+    "pages/ops/ops",
+    "pages/Details/Details",
+    "pages/Nationwide/Nationwide",
+    "pages/local/local",
+    "pages/question/question",
+    "pages/localFoundation/localFoundation",
+    "pages/carry/carry",
+    "pages/dak/dak"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "考试APP",
+    "navigationBarBackgroundColor": "#00FF40",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#cdcdcd",
+    "selectedColor": "#39cffc",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "iconPath": "static/icon/index.png",
+        "selectedIconPath": "./static/icon/index.selected.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/icon/cart.png",
+        "selectedIconPath": "./static/icon/cart.selected.png",
+        "text": "课程"
+      },
+      {
+        "pagePath": "pages/log/log",
+        "iconPath": "static/icon/sell.png",
+        "selectedIconPath": "static/icon/sell.selected.png",
+        "text": "考试"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "iconPath": "static/icon/user.png",
+        "selectedIconPath": "static/icon/user.selected.png",
+        "text": "社区"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

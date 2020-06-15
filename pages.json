@@ -1,0 +1,465 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "uni-app"
+			}
+		}
+	    ,{
+            "path" : "pages/user/user",
+            "style" : {}
+        }
+       
+        ,{
+            "path" : "pages/home/home",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/log/log",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/seeMore/seeMore",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/Morss/Morss",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/MoreDetails/MoreDetails",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/MorAils/MorAils",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/Mors/Mors",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/MorES/MorES",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/NationalTourGuide/NationalTourGuide",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/policy/policy",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/TouristGuide/TouristGuide",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/Bank/Bank",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/ops/ops",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/Details/Details",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/Nationwide/Nationwide",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/local/local",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/question/question",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/localFoundation/localFoundation",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/carry/carry",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/dak/dak",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/ddd/ddd",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/shijiuQuestion/shijiuQuestion",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/sQuestion/sQuestion",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/Twenty-nine/Twenty-nine",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/eight/eight",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/sixtYeven/sixtYeven",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/FiftySix/FiftySix",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/fiftySeven/fiftySeven",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/sixtyTwo/sixtyTwo",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/three/three",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/ShouldFive/ShouldFive",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/four/four",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/SixtySix/SixtySix",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/SixtyEight/SixtyEight",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/lshiQie/lshiQie",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/seventyThree/seventyThree",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/seventyFour/seventyFour",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/seventyFour/qshiWu/qshiWu",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/seventyFour/sixteen/sixteen",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/seventyFour/PageQshiq/PageQshiq",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/seventyFour/pageEight/pageEight",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/seventyFour/pageNine/pageNine",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/seventyFour/ninety/ninety",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/seventyFour/naviga/naviga",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/Twenty-nine/hundred/hundred",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/Twenty-nine/ninetyFive/ninetyFive",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/NinetySix/NinetySix",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/NineHundredSeven/NineHundredSeven",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/FortyTwo/FortyTwo",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/FortyTwo/Forty-six/Forty-six",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/FortyTwo/Answer-four/Answer-four",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/FortyTwo/Answer-wu/Answer-wu",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/FortyTwo/Answer-liu/Answer-liu",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/FortyTwo/Answer-qi/Answer-qi",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/sixtFor/sixtFor",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/fiftyBA/fiftyBA",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/fiftyJiu/fiftyJiu",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/LiuShi/LiuShi",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/LiuYi/LiuYi",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/NineHundredSeven/yName/yName",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/NineHundredSeven/OneHundred/OneHundred",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/NineHundredSeven/hundredAndTwo/hundredAndTwo",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/two-name/two-name",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/two-name/four-name/four-name",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/two-name/two-wu/two-wu",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/two-name/twenty-name/twenty-name",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/two-name/twenty-one/twenty-one",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/twenty-two-name/twenty-two-name",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/twenty-two-name/twenty-three/twenty-three",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/twenty-two-name/twty-view-four/twty-view-four",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/twenty-two-name/view-name/view-name",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/twenty-two-name/thirty-view/thirty-view",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/twenty-two-name/thirty-one/thirty-one",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/twenty-two-name/thirty-two/thirty-two",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/twenty-two-name/thirty-trheeRE/thirty-trheeRE",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/twenty-two-name/thirty-trh/thirty-trh",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/user/use-for/use-for",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/user/deno-wu/deno-wu",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/user/demo-liu/demo-liu",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/user/demk-qi/demk-qi",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/user/demo-ba/demo-ba",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/user/demo-jiu/demo-jiu",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/user/demk-shi/demk-shi",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/user/test-one/test-one",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/user/test-two/test-two",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/three/demo-test-one/demo-test-one",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/three/demo-test-two/demo-test-two",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/three/demo-test-three/demo-test-three",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/three/demo-test-si/demo-test-si",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/three/demo-test-wu/demo-test-wu",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/three/demo-test-qi/demo-test-qi",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/InformationModule/InformationModule",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/education/education",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/jinpingInformation/jinpingInformation",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/returnQie/returnQie",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/BlackGround/BlackGround",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/InformationModuleTwo/InformationModuleTwo",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/Haval/Haval",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/warship/warship",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/MBA/MBA",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/survey/survey",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/fleetingTime/fleetingTime",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/leiju/leiju",
+            "style" : {}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "考试APP",
+		"navigationBarBackgroundColor": "#00FF40",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#cdcdcd",
+		"selectedColor": "#39cffc",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [
+			{
+				"pagePath": "pages/home/home",
+				"iconPath": "static/icon/index.png",
+				"selectedIconPath": "./static/icon/index.selected.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/icon/cart.png",
+				"selectedIconPath": "./static/icon/cart.selected.png",
+				"text": "课程"
+			}, 
+			{
+				"pagePath": "pages/log/log",
+				"iconPath": "static/icon/sell.png",
+				"selectedIconPath": "static/icon/sell.selected.png",
+				"text": "考试"
+			},
+			{
+				"pagePath": "pages/user/user",
+				"iconPath": "static/icon/user.png",
+				"selectedIconPath": "static/icon/user.selected.png",
+				"text": "社区"
+			}
+		]
+	}
+}

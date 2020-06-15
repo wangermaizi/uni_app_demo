@@ -1,0 +1,23 @@
+{
+  "appid": "touristappid",
+  "appInfo": {},
+  "appkey": "",
+  "condition": {
+    "swan": {
+      "current": 0,
+      "list": [
+        {
+          "id": 0,
+          "name": "pages/log/log",
+          "pathName": "pages/log/log",
+          "query": ""
+        }
+      ]
+    }
+  },
+  "setting": {
+    "urlCheck": true
+  },
+  "libVersion": "",
+  "projectname": "开发功能"
+}
